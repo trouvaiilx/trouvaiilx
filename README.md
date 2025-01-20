@@ -5,7 +5,7 @@
 <!-- Stats -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=trouvaiilx&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 <br><br>
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=trouvaiilx&repo=personal-projects&theme=blue_navy&hide_border=true)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=trouvaiilx&repo=personal-projects&theme=blue_navy&hide_border=true)](https://github.com/trouvaiilx/Personal-Projects)
 <br>
 
 <!-- Language and Tools -->
