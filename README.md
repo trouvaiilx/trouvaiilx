@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Yuuji</h1>
 <h3 align="center">A passionate Student</h3>
-<br><br>
+<br>
 
 <!-- Stats -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=trouvaiilx&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
