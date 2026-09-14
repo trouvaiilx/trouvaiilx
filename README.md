@@ -13,7 +13,7 @@
 <!-- Language and Tools -->
 
 <p align="center">
-  <img src="https://ghstats.dev/api/langs?username=trouvaiilx&hide_title=true&layout=horizontal_list" alt="Top Languages">
+  <img src="https://ghstats.dev/api/langs?username=trouvaiilx&hide_title=true&max_langs=100&layout=horizontal_list" alt="Top Languages">
 </p>
 
 <br>
